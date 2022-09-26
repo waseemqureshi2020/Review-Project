@@ -1,0 +1,47 @@
+#title {
+    text-align : center;
+}
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border: 5px, 20px, 5px, 20px;
+    display: block;
+}
+#saver {
+    text-align: center;
+}
+#title-div {
+    text-align: center;
+}
+#img-caption {
+text-align: center;
+}
+#img-div {
+    text-align: center;
+}
+#tribute-link {
+    text-align: center;
+    href:"https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute-page-main-image.jpg"
+    target:"_blank"
+}
+#tribute-info{
+    text-align: center;
+}
+p2 {
+    text-align: center;
+}
+#quote {
+    text-align: center;
+}
+.timeline {
+    text-align: center;
+}
+#dots {
+    text-align: center;
+}
+#more-info {
+    text-align: center;
+    font-size: 20px;
+    padding:20px;
+}
